@@ -1,0 +1,63 @@
+*{
+    border: none;
+}
+.header{
+    height: 4rem;
+}
+.nationalize{
+    padding-top: 2rem;
+    font-size: larger;
+    font-weight: bolder;
+}
+.predict{
+    float: right;
+    padding-right: 2rem;
+    color: white;
+}
+.predict span{
+    background-color: rgba(0, 128, 0, 0.774);
+    border-radius: 1rem;
+}
+.div1{
+    background-color: rgba(255, 235, 205, 0.774);
+}
+.first{
+    font-size: larger;
+    font-weight: 400;
+    padding-top: 3rem;
+}
+.nationality{
+    font-size: x-large;
+    font-weight: 700;
+    color: rgba(0, 128, 0, 0.822);
+}
+.check{
+    color: rgba(0, 0, 0, 0.712);
+}
+.input{
+    width: 7rem;
+}
+.click{
+    border-radius: 1rem;
+    color: black;
+    font-weight: bold;
+}
+.informal{
+    margin-top: 2rem;
+    background-color: white;
+}
+.informal p span{
+    background-color: rgba(255, 255, 0, 0.829);
+}
+.table{
+    
+}
+.greater{
+    color: green;
+}
+.lower{
+    color: red;
+}
+.thanks{
+    color: green;
+}
